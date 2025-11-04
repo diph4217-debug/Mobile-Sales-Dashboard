@@ -23,10 +23,7 @@ This repository showcases a **Power BI dashboard** analyzing mobile sales across
 - Time-based sales trends
 
 ### 🖼 Preview
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview](https://github.com/diph4217-debug/Mobile-Sales-Dashboard/blob/main/Dashboard%20screenshot.png
-Dashboard screenshot.png)
----
+Show what the dashboard looks like. https://github.com/diph4217-debug/Mobile-Sales-Dashboard/blob/main/Dashboard%20screenshot.png
 
 ### 📦 Tools Used
 - Power BI
